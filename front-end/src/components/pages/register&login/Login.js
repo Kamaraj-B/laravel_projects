@@ -393,7 +393,7 @@ export default class Login extends Component {
                             {/*
 							// <h2><span>OR</span></h2> */}
                             
-                            <GoogleOAuthProvider clientId="695238102765-fstg97ilopq97q43qp2divd2eescqrlu.apps.googleusercontent.com">
+                            <GoogleOAuthProvider clientId="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com">
                             
                             <div>
                             <GoogleLogin  data-text="signup_with" onSuccess={responseGoogle} onFailure={responseGoogle}> </GoogleLogin>
