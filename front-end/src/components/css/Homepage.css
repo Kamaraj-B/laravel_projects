@@ -1,0 +1,116 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+ body {
+  padding-top: 0px;
+}
+
+.navbar-border {
+    border-bottom: 1px solid #005295 !important;
+}
+
+.border-bottom-2 {
+    border-bottom: 1px solid #005295 !important;
+    padding: 5px;
+}
+
+.container-fluid {
+  width: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: auto;
+  margin-left: auto;
+  
+}
+
+.jumbotron{
+    background-color: #FFFFFF;
+    /*padding: 0px !important;*/
+}
+
+.white-text{
+    color:#FFFFFF !important;
+}
+
+.blue-text{
+    color:#005295 !important;
+    
+}
+/* .bg-white {
+  background-color: #fffff !important;
+} */
+
+.bg-loris {
+  background-color: #B42D33 !important;
+}
+
+.navbar-brand img{
+    width: 150px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color:#FFFFFF;
+}
+
+.navbar-light .navbar-nav .active>.nav-link{
+
+  color:#FFFFFF;
+    font-weight: bold;  
+}
+
+.card {
+  border-radius: 0px !important;
+  height: 360px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #005295;
+    border-color: #005295;
+}
+
+.card-text-home
+{
+font-family: Tahoma, Arial, Helvetica;
+margin-left: 16px ;
+font-size: 15px !important;
+}
+
+.home-text
+{
+color: #005295;
+background:rgba(0,0,0,.1);
+padding: 6px 15px;
+font-size: 1.1rem;;
+}
+
+.display-6
+{
+font-size: 2.2rem;
+}
+li
+{
+margin-bottom: 0.3rem;
+}
+
+.img-thumbnail
+{
+border: 0px;
+}
+
+.login-image
+{
+width: 28%;
+}
+.hidden-spacer {
+height: 56px
+}
+
+@media screen and (max-width: 767px) {
+.img-thumbnail
+{
+margin-left: 60px;
+}
+}
